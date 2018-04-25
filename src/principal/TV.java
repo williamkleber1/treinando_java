@@ -35,7 +35,7 @@ public class TV extends Eletronico
 
 	public  String toString()
 	{
-		return "Marca :" + this.getMarca() + "\nPolegadas: " + this.getPolegadas() + "\nPreço : " + this.getPreco() + "\n";
+		return "TV\nMarca :" + this.getMarca() + "\nPolegadas: " + this.getPolegadas() + "\nPreço : " + this.getPreco() + "\n";
 	}
 
 
